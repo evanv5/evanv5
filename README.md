@@ -2,13 +2,13 @@
 
 I'm a student at the University of Georgia studying Management Information Systems with a strong interest in business analytics, information technology, and data-driven decision-making. I enjoy exploring how technology and data work and can help organizations solve problems, improve operations, and make better business decisions.
 
-## 📄 Resume
-
-[📄 View My Resume (PDF)](./Resume%20October%202026.pdf)
-
 ## 🔗 Connect With Me
 
 [LinkedIn](www.linkedin.com/in/evanvoss)
+
+## 📄 Resume
+
+[📄 View My Resume (PDF)](./Resume%20October%202026.pdf)
 
 ## 🎓 Education
 
