@@ -3,7 +3,8 @@
 I am a student at the University of Georgia interested in business analytics, data science, and technology.
 
 
-#Resume
+# Resume
+[View My Resume](./Resume October 2026.pdf)
 
 
 <!--
