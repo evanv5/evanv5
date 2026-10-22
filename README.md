@@ -1,11 +1,45 @@
-## Hi, I'm Evan 👋
+# Hi, I'm Evan! 👋
 
-I am a student at the University of Georgia interested in business analytics, data science, and technology.
+I'm a student at the University of Georgia studying Management Information Systems with a strong interest in business analytics, information technology, and data-driven decision-making. I enjoy exploring how technology and data work and can help organizations solve problems, improve operations, and make better business decisions.
 
+## 🎓 Education
 
-# Resume
-[View My Resume](./Resume%20October%202026.pdf)
+**University of Georgia**
+- Major: Management Information Systems
+- Minor: German
+- Certificate: Artificial Intelligence for Business
+- Interested in pursuing a Master of Science in Business Analytics
 
+## 💻 Technical Skills
+
+- **Programming & Data:** Python (basic), SQL (intermediate), Java (basic)
+- **Analytics:** Data Analysis, Data Visualization, Predictive Modeling
+- **Machine Learning:** Logistic Regression, Neural Networks, Model Evaluation
+- **Tools:** Microsoft Office, Snowflake
+- **Areas of Interest:** Business Analytics, Artificial Intelligence, IT Infrastructure, Business Intelligence
+
+## 🚀 Currently Learning & Exploring
+
+- Applying machine learning to real-world business problems
+- Using AI and predictive analytics to support decision-making
+- Developing data visualization and analytical skills
+- Exploring IT infrastructure and emerging technologies
+
+## 💼 Professional Interests
+
+I'm interested in opportunities involving:
+- Business Analytics & Data Analytics
+- Information Technology
+- Business Intelligence
+- AI & Machine Learning Applications
+
+## 📄 Resume
+
+[📄 View My Resume (PDF)](./Resume%20October%202026.pdf)
+
+## 🔗 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/evanvoss)
 
 <!--
 **evanv5/evanv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
