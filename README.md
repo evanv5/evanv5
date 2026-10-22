@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Evan 👋
+
+I am a student at the University of Georgia interested in business analytics, data science, and technology.
+
+
+#Resume
+
 
 <!--
 **evanv5/evanv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
