@@ -2,6 +2,14 @@
 
 I'm a student at the University of Georgia studying Management Information Systems with a strong interest in business analytics, information technology, and data-driven decision-making. I enjoy exploring how technology and data work and can help organizations solve problems, improve operations, and make better business decisions.
 
+## 📄 Resume
+
+[📄 View My Resume (PDF)](./Resume%20October%202026.pdf)
+
+## 🔗 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/evanvoss)
+
 ## 🎓 Education
 
 **University of Georgia**
@@ -33,13 +41,6 @@ I'm interested in opportunities involving:
 - Business Intelligence
 - AI & Machine Learning Applications
 
-## 📄 Resume
-
-[📄 View My Resume (PDF)](./Resume%20October%202026.pdf)
-
-## 🔗 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/evanvoss)
 
 <!--
 **evanv5/evanv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
