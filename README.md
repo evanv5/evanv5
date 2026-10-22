@@ -4,7 +4,7 @@ I am a student at the University of Georgia interested in business analytics, da
 
 
 # Resume
-[View My Resume](./Resume October 2026.pdf)
+[View My Resume](./Resume%20October%202026.pdf)
 
 
 <!--
